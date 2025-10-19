@@ -1,1 +1,1 @@
-# atividadesavaliativas
+# atividades avaliativas - lógica de programação
